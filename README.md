@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @justmeiguess
 - 👀 I’m interested in ... I would have to update this too often
-- 🌱 I’m currently learning ... Java
-- 💞️ I’m looking to collaborate on ... Nothing
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on ✨ N O T H I N G ! ✨ 
 - 📫 How to reach me ...
 
 <!---
